@@ -23,9 +23,9 @@ My main objectives are:
 | Topic                 | Progress    |
 | --------------------- | ----------- |
 | Arrays & Hashing      | In Progress |
-| Two Pointers          | Not Started |
+| Two Pointers          | In Progress |
 | Sliding Window        | Not Started |
-| Stack                 | Not Started |
+| Stack                 | In Progress |
 | Binary Search         | Not Started |
 | Linked Lists          | Not Started |
 | Trees                 | Not Started |
@@ -33,36 +33,11 @@ My main objectives are:
 | Heap / Priority Queue | Not Started |
 | Backtracking          | Not Started |
 | Graphs                | Not Started |
-| Dynamic Programming   | Not Started |
+| Dynamic Programming   | In Progress |
 | Greedy                | Not Started |
 | Intervals             | Not Started |
 | Bit Manipulation      | Not Started |
 
-## Solution Structure
-
-Problems are organized by algorithmic topic.
-
-```text
-leetcode-solutions/
-│
-├── README.md
-│
-├── Arrays-and-Hashing/
-├── Two-Pointers/
-├── Sliding-Window/
-├── Stack/
-├── Binary-Search/
-├── Linked-Lists/
-├── Trees/
-├── Tries/
-├── Heap/
-├── Backtracking/
-├── Graphs/
-├── Dynamic-Programming/
-├── Greedy/
-├── Intervals/
-└── Bit-Manipulation/
-```
 
 ## My Approach
 
